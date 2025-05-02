@@ -1,2 +1,2 @@
 # MYmusic
-i am devloping a music streamming app
+I am trying to devlop a music streaming app backend
